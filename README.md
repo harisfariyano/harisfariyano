@@ -1,4 +1,4 @@
-### Assalamualaikum.wr.wb 🙏🏻🙏🏻
+### Assalamualaikum 🙏🏻🙏🏻
 
 Perkenalkan nama saya **Muhammad Haris Fariyano** <br>
 Salam kenal..
@@ -12,8 +12,8 @@ Salam kenal..
 
 <h3 align="left">Berkenalan denganku melalui :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-rizky-ikhval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subastiansk" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/rizky__val/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subastiansk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/harisfariyano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subastiansk" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/haris_fariyano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subastiansk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Project lain :</h3>
