@@ -5,8 +5,8 @@ Salam kenal..
 
 <p align="left">
 <a href="https://github.com/rizkyikhval">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizkyikhval&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizkyikhval&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harisfariyano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harisfariyano&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -24,4 +24,4 @@ Salam kenal..
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyikhval&" alt="rizkyikhval" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harisfariyano&" alt="harisfariyano" /></p>
