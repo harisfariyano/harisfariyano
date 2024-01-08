@@ -1,6 +1,6 @@
 ### Assalamualaikum.wr.wb 🙏🏻🙏🏻
 
-Perkenalkan nama saya **Muhammad Rizky Ikval Alamsyah** <br>
+Perkenalkan nama saya **Muhammad Haris Fariyano** <br>
 Salam kenal..
 
 <p align="left">
